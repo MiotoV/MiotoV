@@ -31,5 +31,5 @@ robust Back-end applications with Java.
 
 ## 📫 Contact
 
-- 💼 LinkedIn
-- 📧 Email
+- 💼 Linkedin: www.linkedin.com/in/vinicius-mioto-de-assis-a66089243
+- 📧 Email: vinicius.mioto4@gmail.com
