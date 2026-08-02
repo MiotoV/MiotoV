@@ -1,13 +1,35 @@
-<h1 align="center">Hi! i'm Vinicius Mioto 👋</h1>
+<h1 align="center">Hi, I'm Vinicius Mioto 👋</h1>
 
-<h3 align="center">Welcome to my profile! let me tell you about my journey so far</h3>
+<h3 align="center">
+Backend Developer • Java • Spring Boot
+</h3>
 
-<h2>About me 👨‍💻</h2>
+<p align="center">
+I'm currently transitioning into Software Development, focusing on building
+robust Back-end applications with Java.
+</p>
 
-<p>🎓 Bachelor's degree in Computer Science;</p>
-<p>💼 Currently transitioning into a career in Software Development.; </p>
-<p>💻 Focused on Back-end Development with Java.</p>
+---
 
-<h2>Tech Stack</h2>
+## 👨‍💻 About Me
 
+- 🎓 Bachelor's Degree in Computer Science
+- 💼 Currently working in IT while transitioning into Software Development
+- ☕ Focused on Back-end Development with Java
+- 📚 Constantly learning Spring Boot, SQL, REST APIs and Clean Code
+- 🎯 Goal: Become a Java Back-end Developer
 
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,git,github,idea,vscode,postman,docker,hibernate" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn
+- 📧 Email
